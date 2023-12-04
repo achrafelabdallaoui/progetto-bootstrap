@@ -1,0 +1,30 @@
+footer {
+    padding: 100px 400px;
+   
+}
+.margneg {
+    margin-left: -10px;
+}
+.mrgtop {
+
+    margin-top: -17px;
+}
+.radio {
+    width: 30px;
+    height: 30px;
+}
+
+.wid1 {
+    width: 120px;
+}
+.wid2 {
+    width: 200px;
+}
+.wid3 {
+    width: 280px;
+}
+.cl {
+    margin-left: 30%;
+    margin-right: 30%;
+
+}
